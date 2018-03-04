@@ -79,7 +79,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=D:\AltiumB\QS_CeKong.PcbLib
+DocumentPath=ST-Link-V2.2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,6 +99,10 @@ DocumentPath=Project Outputs for ST-Link-V2.2\Design Rule Check - ST-Link-V2.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=ST-Link-V2.2.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ST-Link-V2.2\ST-Link-V2.2.REP
 DItemRevisionGUID=
 

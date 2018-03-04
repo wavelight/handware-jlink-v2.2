@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=P2 Old Footprint=HEADER_5 New Footprint=HEADER 5
+Change Component Footprint: Designator=P3 Old Footprint=HEADER_5 New Footprint=HEADER 5
+Change Component Description : Designator=J1 Old Description=USB½Ó? New Description=USB½Ó¿Ú
+Change Component Description : Designator=F1 Old Description=±£? New Description=±£ÏÕË¿
+Change Component Description : Designator=Q1 Old Description=Ìù? New Description=ÌùÆ¬Èý¼«¹Ü
+Change Component Description : Designator=R1 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R2 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R16 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R17 Old Description=Ìù? New Description=ÌùÆ¬µç×è
+Added Component: Designator=J2(USB_MICRO_5S_B)
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Pin To Net: NetName=USB_N Pin=J2-2
+Added Pin To Net: NetName=USB_P Pin=J2-3
+Added Pin To Net: NetName=P_SWCLK Pin=P2-1
+Added Pin To Net: NetName=P_SWDIO Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=P_RXD Pin=P2-4
+Added Pin To Net: NetName=P_TXD Pin=P2-5
+Added Pin To Net: NetName=P_MOSI Pin=P3-1
+Added Pin To Net: NetName=5V Pin=P3-2
+Added Pin To Net: NetName=3.3V Pin=P3-3
+Added Pin To Net: NetName=P_SWO Pin=P3-4
+Added Pin To Net: NetName=P_NRST Pin=P3-5
+Change Net Name : Old Net Name=SWO0 New Net Name=NetR7_1
+Added Member To Class: ClassName=ST-Link-V2.2 Member=Component J1 USB
+Added Member To Class: ClassName=ST-Link-V2.2 Member=Component J2 USB_M
+Added Member To Class: ClassName=ST-Link-V2.2 Member=Component P2 P-BOTTOM
+Added Member To Class: ClassName=ST-Link-V2.2 Member=Component P3 P-TOP
+Added Member To Class: ClassName=ST-Link-V2.2 Member=Component U1 SPX3819
+Added Room: Name=ST-Link-V2.2
