@@ -1,5 +1,0 @@
-Added Component: Designator=F1(0805-1)
-Added Pin To Net: NetName=5V Pin=F1-1
-Added Pin To Net: NetName=VBUS Pin=F1-2
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component F1 Fuse1
-Added Room: Name=ST-Link-V2.2
