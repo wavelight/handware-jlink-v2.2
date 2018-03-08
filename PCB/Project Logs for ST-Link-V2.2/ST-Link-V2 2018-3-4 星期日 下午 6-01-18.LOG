@@ -1,7 +1,0 @@
-Added Component: Designator=P1(SIP5-1.27)
-Added Pin To Net: NetName=3.3V Pin=P1-1
-Added Pin To Net: NetName=SWDIO0 Pin=P1-2
-Added Pin To Net: NetName=SWCLK0 Pin=P1-3
-Added Pin To Net: NetName=GND Pin=P1-4
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component P1 SWD
-Added Room: Name=ST-Link-V2.2
